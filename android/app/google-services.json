@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19605157126",
+    "project_id": "fruitapp-a8d98",
+    "storage_bucket": "fruitapp-a8d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19605157126:android:89ab9ed6890cf030361a87",
+        "android_client_info": {
+          "package_name": "com.example.fruit_market_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19605157126-212jmhtdc2uu5am3ob98tk6olbubruff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6850t20ryvlpAVlSE-9ohMH6v0PS_dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19605157126-212jmhtdc2uu5am3ob98tk6olbubruff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
